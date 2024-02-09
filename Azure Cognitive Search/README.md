@@ -5,11 +5,7 @@
 Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados</span>
 </h1>
 
-
 Abaixo segue algumas imagens de como foi feito o processo.
-
-
-
 
 ![search service 1](https://github.com/CainFabin/DIO-Microsoft-Azure-AI-Fundamentals-Estudos/assets/150050846/9c91b842-7114-4c7d-8739-dd6afc9a3bdd)
 
@@ -29,7 +25,6 @@ Abaixo segue algumas imagens de como foi feito o processo.
 
 ![search service 9](https://github.com/CainFabin/DIO-Microsoft-Azure-AI-Fundamentals-Estudos/assets/150050846/e845db67-ca0d-4493-a8e4-be3fabdeaf52)
 
-
-## Observações finais:      
+## Observações finais:
 
 As ferramentas de inteligência artificial do Azure facilitam a consulta em documentos, pesquisas e depoimentos, agilizando ainda mais a consulta de satisfação de empresas sobre seus produtos e serviços.
